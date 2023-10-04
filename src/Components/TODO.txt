@@ -1,0 +1,10 @@
+FormList
+Form rendering
+submit form json
+Add validations
+add support for different input types
+UI improvements
+code refactoring
+code deployment
+update readme file
+add git ignore
